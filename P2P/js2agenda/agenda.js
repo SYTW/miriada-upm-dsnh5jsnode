@@ -1,3 +1,4 @@
+// ~/local/academica/formacion/miriada/nodejs/P2P/js2agenda
 // Añadir un método listar() al cierre agenda(..) {...} que liste por
 // consola cada par "nombre, tf" en una línea, de forma que al listar
 // la agenda amigos generase:
